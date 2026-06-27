@@ -5,6 +5,7 @@
         [9584852943] = "https://api.jnkie.com/api/v1/luascripts/public/2c2ea4ddc879e4961caed2c0e6d991534274f132f5d4a02d7dfb24b35dff3c02/download";
         [210851291] = "https://api.jnkie.com/api/v1/luascripts/public/a889af8bb415244cdd6fc38d3d1d7f7f31ed162ecaea0d1b6a0fd0f31e68185c/download";
         [10232643663] = "https://raw.githubusercontent.com/JustLuaDeveloper/dragonhub/refs/heads/main/scripts/paintmykeyboard.lua";
+        [9977954973] = "https://raw.githubusercontent.com/JustLuaDeveloper/dragonhub/refs/heads/main/scripts/paintandseek.lua";
     }
 if games[game.GameId] then
     loadstring(game:HttpGet(games[game.GameId]))()
