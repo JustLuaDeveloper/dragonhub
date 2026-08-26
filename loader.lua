@@ -7,6 +7,7 @@
         [10232643663] = "https://raw.githubusercontent.com/JustLuaDeveloper/dragonhub/refs/heads/main/scripts/paintmykeyboard.lua";
         [9977954973] = "https://raw.githubusercontent.com/JustLuaDeveloper/dragonhub/refs/heads/main/scripts/paintandseek.lua";
         [10334731049] = "https://api.jnkie.com/api/v1/luascripts/public/77ec1e40592fde8d6af77a1a5096f2c88cd85749eac8af79c209d6c0548479a8/download";
+        [10144280947] = "https://raw.githubusercontent.com/JustLuaDeveloper/dragonhub/refs/heads/main/scripts/%2B1speedmonkeyescape.lua"
     }
 if games[game.GameId] then
     loadstring(game:HttpGet(games[game.GameId]))()
